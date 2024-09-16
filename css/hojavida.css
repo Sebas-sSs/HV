@@ -1,0 +1,14 @@
+html,body{
+    height: 100%;
+}
+#hv{
+    height: 100%;
+    width: 100%;
+}
+
+.titulo {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: 80px;
+    text-align: center;
+    text-shadow: 0 0 0.2em darkred;
+}  
